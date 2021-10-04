@@ -1,0 +1,8 @@
+Link para Download do Git: https://git-scm.com/downloads
+O Git Bash é um terminal estendido para otimizar o uso do Git.
+ 
+- Para adicionar uma nova informação da nossa maquina local direto para o
+servidor remoto do Git Hub, basta dar os seguintes comandos:
+( git status--vai mostar o status da pasta nova )
+## git add.  ou um git add -A ## adicionará a pasta da nossa maquina para o 
+servidor remoto do Git Hub. 
